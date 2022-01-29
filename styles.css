@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    color: darkmagenta;
+    font-size: 200%;
+}
